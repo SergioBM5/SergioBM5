@@ -8,8 +8,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Ios & Android Development by myself
+- A passionate Self-taught FullStack developer
+- Currently learning Web Development by Self
 
 <br><br>
 
