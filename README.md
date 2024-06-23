@@ -9,7 +9,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- Currently learning Ios & Android Development by myself
 
 <br><br>
 
